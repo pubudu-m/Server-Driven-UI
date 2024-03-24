@@ -1,0 +1,89 @@
+{
+    "title": "Home",
+    "widgets": [
+        {
+            "type": "carousel",
+            "header": "Carousel Widget",
+            "components": [
+                {
+                    "type": "image-banner",
+                    "data": {
+                        "image": "event-banner-1"
+                    }
+                },
+                {
+                    "type": "image-banner",
+                    "data": {
+                        "image": "event-banner-2"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "grid",
+            "header": "Grid Widget",
+            "components": [
+                {
+                    "type": "explore-tile",
+                    "data": {
+                        "image": "album-poster-1",
+                        "title": "Pop",
+                        "subtitle": "Today's chart-toppers and pop sensations"
+                    }
+                },
+                {
+                    "type": "explore-tile",
+                    "data": {
+                        "image": "album-poster-2",
+                        "title": "Indie",
+                        "subtitle": "Fresh underground hits and indie gems"
+                    }
+                },
+                {
+                    "type": "explore-tile",
+                    "data": {
+                        "image": "album-poster-3",
+                        "title": "Electro",
+                        "subtitle": "Pulsating rhythms, futuristic soundscapes"
+                    }
+                },
+                {
+                    "type": "explore-tile",
+                    "data": {
+                        "image": "album-poster-4",
+                        "title": "Global Beats",
+                        "subtitle": "Afrobeat, Reggae, and more"
+                    }
+                },
+                {
+                    "type": "explore-tile",
+                    "data": {
+                        "image": "album-poster-5",
+                        "title": "Rock",
+                        "subtitle": "Classic anthems, modern hits"
+                    }
+                },
+                {
+                    "type": "explore-tile",
+                    "data": {
+                        "image": "album-poster-6",
+                        "title": "Chillout",
+                        "subtitle": "Soothing melodies, mellow vibes"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "header": "List Widget",
+            "components": [
+                {
+                    "type": "descriptive-text",
+                    "data": {
+                        "text": "Dive into a world of melodies, rhythms, and beats where every song tells a story and every note ignites an emotion"
+                    }
+                }
+            ]
+        }
+    ]
+}
