@@ -6,6 +6,6 @@ In contrast, Server-Driven UI is a way of designing mobile applications, where t
 
 This Project delves into the widget/component systems within server-driven UI design, along with other crucial aspects necessary for building robust server-driven architectures. Below is what we built in this project:
 
-![SimulatorScreenRecording-iPhone15Pro-2024-03-24at19 23 00-ezgif com-video-to-gif-converter](https://github.com/pubudu-m/Server-Driven-UI/assets/66482798/96059598-78f6-43d5-a1f7-e1115ccdacd8)
+<img src="https://github.com/pubudu-m/Server-Driven-UI/assets/66482798/96059598-78f6-43d5-a1f7-e1115ccdacd8" width="300">
 
 Read more on Medium - https://medium.com/@pubudumihiranga/server-driven-ui-with-swiftui-a9ed31fb843b
